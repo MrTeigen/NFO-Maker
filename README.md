@@ -15,7 +15,7 @@ If you have multiple files from one vacation you can also utilize the episode op
 ![Picture of episode option](Pictures/NFO%20Maker%20-%20Episodes.PNG)
 
 The program is based on:
-Python 3.11.1
-Customtkinter 5.0.5
+- Python 3.11.1
+- Customtkinter 5.0.5
 
 If you want to run the program directly, I also included a .exe file for Windows
